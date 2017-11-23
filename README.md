@@ -1,5 +1,7 @@
 # good-json-console
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/topjun/good-json-console.svg)](https://greenkeeper.io/)
+
 JSON based console broadcasting for Good process monitor
 
 [![Build Status](https://travis-ci.org/sportngin/good-json-console.svg?branch=master)](http://travis-ci.org/sportngin/good-json-console)![Current Version](https://img.shields.io/npm/v/good-json-console.svg)
