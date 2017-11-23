@@ -1,4 +1,4 @@
-# good-json-console -- jun
+# good-json-console
 
 JSON based console broadcasting for Good process monitor
 
